@@ -49,6 +49,7 @@ li a:hover {
   background: blue;
   color: white;
 }
+/* Mainbody  screens larger than 1500 */
 #mainbody {
   clear: left;
   padding: 75px;
@@ -58,20 +59,87 @@ li a:hover {
 #mainbody h2 {
   margin: 0;
   padding-top: 10px;
-  font-size: 40px;
+  font-size: 70px;
   text-align: center;
 }
 #mainbody h3 {
-  font-size: 25px;
+  font-size: 45px;
   text-align: center;
 }
 #mainbody p {
   text-indent: 20px;
   text-align: left;
   padding: 0 100px 0 100px;
-  font-size: 20px;
+  font-size: 35px;
 }
+/* smaller than 1500 */
+@media screen and (max-width: 1500px) {
+  #mainbody {
+    clear: left;
+    padding: 75px;
+    color: white;
+    text-shadow: 0px 0px 5px black, 0 0 5px orange, 0 0 25px orangered;
+  }
+  #mainbody h2 {
+    margin: 0;
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  #mainbody h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+  #mainbody p {
+    text-indent: 20px;
+    text-align: left;
+    padding: 0 100px 0 100px;
+    font-size: 20px;
+  }
+}
+/* Screens smaller than 992 */
+@media screen and (max-width: 992px) {
+  #mainbody {
+    clear: left;
+    padding: 75px;
+    color: white;
+    text-shadow: 0px 0px 5px black, 0 0 5px orange, 0 0 25px orangered;
+  }
+  #mainbody h2 {
+    margin: 0;
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  #mainbody h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+  #mainbody p {
+    text-indent: 20px;
+    text-align: left;
+    padding: 0 100px 0 100px;
+    font-size: 20px;
+  }
+}
+/* Screens less than 600px */
 @media screen and (max-width: 600px) {
+  #mainbody {
+    clear: left;
+    padding: 75px;
+    color: white;
+    text-shadow: 0px 0px 5px black, 0 0 5px orange, 0 0 25px orangered;
+  }
+  #mainbody h2 {
+    margin: 0;
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  #mainbody h3 {
+    font-size: 25px;
+    text-align: center;
+  }
   #mainbody p {
     text-indent: 10px;
     text-align: left;
