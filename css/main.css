@@ -1,0 +1,160 @@
+html {
+  background: url("../img/desk.jpg") no-repeat center fixed;
+  background-size: cover;
+  height: auto;
+}
+body {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.current {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: red;
+}
+#nav {
+  height: 10%;
+  background: blue;
+}
+.title {
+  padding-top: 2px;
+  font-size: 10px;
+  text-align: center;
+  background: blue;
+  color: white;
+}
+/* Mainbody  screens larger than 1500 */
+#mainbody {
+  clear: left;
+  padding: 75px;
+  color: white;
+  text-shadow: 0px 0px 5px black, 0 0 5px orange, 0 0 25px orangered;
+}
+#mainbody h2 {
+  margin: 0;
+  padding-top: 10px;
+  font-size: 70px;
+  text-align: center;
+}
+#mainbody h3 {
+  font-size: 45px;
+  text-align: center;
+}
+#mainbody p {
+  text-indent: 20px;
+  text-align: left;
+  padding: 0 100px 0 100px;
+  font-size: 35px;
+}
+/* smaller than 1500 */
+@media screen and (max-width: 1500px) {
+  #mainbody {
+    clear: left;
+    padding: 75px;
+    color: white;
+    text-shadow: 0px 0px 5px black, 0 0 5px orange, 0 0 25px orangered;
+  }
+  #mainbody h2 {
+    margin: 0;
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  #mainbody h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+  #mainbody p {
+    text-indent: 20px;
+    text-align: left;
+    padding: 0 100px 0 100px;
+    font-size: 20px;
+  }
+}
+/* Screens smaller than 992 */
+@media screen and (max-width: 992px) {
+  #mainbody {
+    clear: left;
+    padding: 75px;
+    color: white;
+    text-shadow: 0px 0px 5px black, 0 0 5px orange, 0 0 25px orangered;
+  }
+  #mainbody h2 {
+    margin: 0;
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  #mainbody h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+  #mainbody p {
+    text-indent: 20px;
+    text-align: left;
+    padding: 0 100px 0 100px;
+    font-size: 20px;
+  }
+}
+/* Screens less than 600px */
+@media screen and (max-width: 600px) {
+  #mainbody {
+    clear: left;
+    padding: 75px;
+    color: white;
+    text-shadow: 0px 0px 5px black, 0 0 5px orange, 0 0 25px orangered;
+  }
+  #mainbody h2 {
+    margin: 0;
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  #mainbody h3 {
+    font-size: 25px;
+    text-align: center;
+  }
+  #mainbody p {
+    text-indent: 10px;
+    text-align: left;
+    padding: 0 25px 0 25px;
+    font-size: 15px;
+  }
+  #mainbody h3 {
+    font-size: 15px;
+    text-align: center;
+  }
+}
+#footer h2 {
+  margin: 0;
+  padding: 30px;
+  color: white;
+  font-size: 10px;
+  text-align: center;
+}

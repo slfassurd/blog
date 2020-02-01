@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" type="text/css" href="main.css">
-    <title>My Blog</title>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <title>About Me</title>
 </head>
 <body>
 <div id = "nav">
@@ -16,6 +16,7 @@
 				<ul>
 					<li><a 	href = "index.php"> Home </a></li>
 					<li><a 	href = "about.php"><span class = "current"> About </span></a></li>
+					<li><a  href = "./posts/blogposts.php">Posts</a></li>
 				</ul>
 		</div>
 </div>
