@@ -36,4 +36,7 @@
         my blogs in.  However, I'm going to use PHP to make it easier and make the site more dynamic.  It is going to be a long process so standby 
         to standby.  Shouldn't take too long....once I learn php.</p>
 </div>
+<div id="footer">
+	<h2>Copyright by &copy Rose Rising Enterprises LLC</h2>
+</div>
 </html>
