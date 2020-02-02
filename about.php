@@ -38,6 +38,7 @@
 					industry.  I have worked various manual labor jobs in the past.  With the experience that I have with computers, I'll bring 
 					a new perspective to the business.</p>
 				<h2>The story continues...</h2>
+				
 		</div>
 	<div id="footer">
 		<h2>Copyright by &copy Rose Rising Enterprises LLC</h2>

@@ -35,6 +35,15 @@
     <p>Now on to the programing part.  I'm using git as a way to keep things organized.  For right now, I'm going to have to "hardcode"
         my blogs in.  However, I'm going to use PHP to make it easier and make the site more dynamic.  It is going to be a long process so standby 
         to standby.  Shouldn't take too long....once I learn php.</p>
+    <br><br>
+    <h3>Febuary 1, 2020</h3>
+    <p>Right now it is 7am and it is the second.  I've gotten a load back to Salt Lake that delivers tomorrow early.  That means that I'll be able
+        to post another one early in the morning.  That will of course be on the 3rd...</p>
+    <p>I'm stuck up here in Evanston, Wyoming waiting for a chance to get out of here.  I'm stuck with a bunch of Eastbound drivers, and the road is closed. 
+        I managed to find a place to park where other drivers will block you off, until the road opens. There may be a way for me to get out of here, but it 
+        is going to be tight.</p>
+    <p>I've have gotten my routines back up and running on Trello.  I had them there before and it worked somewhat good.  However, I'm going to exercise my programming 
+        skill and write a program for them.  However, time is money and I need to have them going.  For now, I'm going to use Trello, until I'm done with it.</p>
 </div>
 <div id="footer">
 	<h2>Copyright by &copy Rose Rising Enterprises LLC</h2>
