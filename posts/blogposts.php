@@ -44,6 +44,16 @@
         is going to be tight.</p>
     <p>I've have gotten my routines back up and running on Trello.  I had them there before and it worked somewhat good.  However, I'm going to exercise my programming 
         skill and write a program for them.  However, time is money and I need to have them going.  For now, I'm going to use Trello, until I'm done with it.</p>
+    <h3>Febuary 3, 2020</h3>
+    <p>Well, I've delivered and I'm home here in Salt Lake City Ut.  There was a nasty snow storm last night, and the roads are closed both ways.   That's when it was 
+        decided that I would stay home.  I only had 6 hours left on my 14 hour clock anyway, and the roads are closed both ways.  Tomorrow will be a better time
+        to get a load and make some more money.</p>
+    <p>I've gotten some good reviews about my website so far.  I would really like to get some opinions about it.  Please leave a comment or two on my facebook page.  
+        Here is a link to my page.</p>
+    <p><a href = "https://www.facebook.com/Slfassurd">My Facebook</a></p>
+    <p>My next few updates aren't going to be anything special.  I'm going to add some PHP stuff, and maybe some database stuff. I'm also going to get some personal programs
+        written.  I'm also going to get a contact page written and going.  I'm looking forward to it.</p>
+
 </div>
 <div id="footer">
 	<h2>Copyright by &copy Rose Rising Enterprises LLC</h2>
