@@ -1,25 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" type="text/css" href="../css/post.css">
-    <title>Blog posts</title>
-</head>
+<?php include './includes/bootstrap.php' ?>
 <body>
-<div id = "nav">
-		<div class="title">
-			<h1>Blog posts</h1>
-		</div>
-		<div class="menu"> 	
-				<ul>
-					<li><a 	href = "../index.php"> Home</a></li>
-					<li><a 	href = "../about.php"> About </a></li>
-					<li><a  href = "blogposts.php"><span class = "current">Posts</span></a></li>
-				</ul>
-		</div>
-</div>
 <div id="mainbody">
     <h2>Blog Post #1</h2>
     <h3>January 31, 2020</h3>
@@ -44,7 +25,7 @@
         is going to be tight.</p>
     <p>I've have gotten my routines back up and running on Trello.  I had them there before and it worked somewhat good.  However, I'm going to exercise my programming 
         skill and write a program for them.  However, time is money and I need to have them going.  For now, I'm going to use Trello, until I'm done with it.</p>
-    <h3>Febuary 3, 2020</h3>
+    <h3>February 3, 2020</h3>
     <p>Well, I've delivered and I'm home here in Salt Lake City Ut.  There was a nasty snow storm last night, and the roads are closed both ways.   That's when it was 
         decided that I would stay home.  I only had 6 hours left on my 14 hour clock anyway, and the roads are closed both ways.  Tomorrow will be a better time
         to get a load and make some more money.</p>
@@ -53,9 +34,17 @@
     <p><a href = "https://www.facebook.com/Slfassurd">My Facebook</a></p>
     <p>My next few updates aren't going to be anything special.  I'm going to add some PHP stuff, and maybe some database stuff. I'm also going to get some personal programs
         written.  I'm also going to get a contact page written and going.  I'm looking forward to it.</p>
-
+    <h3>February 11, 2020</h3>
+    <p>I have seemed to stall on this little "project" of mine.  I wanted to make some changes to the "nuts and bolts" of the website. First, I put the header, menu, and the 
+        footer into their own php files.  Then I had to update the post page to get them all to work right.  That took up all of the time.</p>
+    <p>Of course it took a couple of hours to find that a pair of quotation marks were causing a lot of my problems.  One of the risks that you have with programing.  However, 
+        it seems to be working now.  Even though there aren't changes on the site, believe me when I say that there is.</p>
+    <p>What is next is to make this more Object Oriented, or OOP.  However, that is going to take some time to get running.  I might have to wait on that.  Don't know for sure on
+        that one.  Who knows?</p>
+    <p>What I need to do is to put these posts into a database. Then I could allow you to check and pull down from it.  That is going to take some time as well, but should
+        be what is next.</p>
+    <p>On the trucking side, I actually got to throw some chains on.  I put on 4, ended up losing 2 and breaking 2.  I also had to get some new mudflaps replaced as well as
+        other things.  For my first time though, I didn't think it was that bad.  Just have to remember to go slower....</p>
 </div>
-<div id="footer">
-	<h2>Copyright by &copy Rose Rising Enterprises LLC</h2>
-</div>
+<?php include './includes/header.php' ?>
 </html>
